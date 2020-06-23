@@ -1,0 +1,29 @@
+Model: Nuku Nuku (The cultural Cat girl)
+Author: White Dragon
+Finish date: April 10th 2K
+Work time: Model was about 4 hours, skin was basicly done in another 4.
+Contact: wd@wvi.com And yes folks, I am working on a website! :) http://medleydsl.wvi.com/
+__________________________________________
+
+This is (as you may all know her) Nuku nuku, Got a couple of questions as too
+why she's in this virtualy unknown outfit :)  Well this was the easiest one 
+that I found when digging on the web for reference shots, but worry not!
+
+I do plan on making a version of her, in her more known dress with the extended
+ears.
+
+(And for those of you wondering the '-b' is for battle suit ;)
+
+Tech info
+___________________________________________
+
+Faces: 827
+Verts: 439
+Textures: 2 (256x256, 128x128)
+
+Custom Animations...
+
+Well -techincaly- everything, the skeleton is off of Onna! 
+I didn't realy include any custom ones, these are just the converted ones
+too fit the new biped. I may put out some more effort in the animations in 
+th next revision of her...

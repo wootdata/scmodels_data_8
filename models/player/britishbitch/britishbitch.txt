@@ -1,0 +1,44 @@
+BritishBitch 
+===================================================================================================
+Installation :
+
+Go to \Sierra\Half-Life\valve\models\player\ and create a directory called "britishbitch".
+
+Put the files "britischbitch.mdl,britishbitch.bmp,britishbitch.txt" into this directory.
+
+Put the files "320hud1.spr,640hud1.spr,640hud4.spr" into the Sierra\Half-Life\valve\sprites\
+directory.
+
+Put the files "p_crowbar.mdl,v_crowbar.mdl,w_crowbar.mdl" into the Sierra\Half-Life\valve\models\
+directory.
+
+Put the files "cbar_hit2,cbar_hit1" into the Sierra\Half-Life\valve\sound\weapons\ directory.
+If it doesn't exist , make it.
+
+
+===================================================================================================
+===================================================================================================
+
+Skin Name        : britishbitch
+Author           : Wim & Iris
+E-Mail           : willem@microweb.nl
+Website          : None present
+Editors used     : Milkshape 3D 1.5.7 , 3D Exploration , Adobe Photoshop 6.0 , 
+		   Wavelength SpriteWizzard
+                              
+
+The story behind the skin:
+
+My wife gave me the first idea.She noticed that there was a shortage of female skins.
+When she saw the Bill Clinton skin she thought it would be nice to see the former prime minister
+of Great Brittain Mrs.Thatcher running around.Okay, so we searched for a picture of her face to 
+put on the skin and made her a nice dress.Hmmm....She was missing something....or some things...
+My wife said she had to have a neckless..and a nice pair of pumps.British pumps of course.Right...
+When that was finished I was proud of the archievment: A Spitting Image of Thatcher ! But......
+my wife wasn't satisfied !Nooooo ! What would a lady do without her handbag ??? Well ??? 
+Back to the drawingboard.Made her a nice purse with whitch she could whack her opposision to the
+ground, just like a lady would. ;-)
+Well we think the finished result is quite fun to look at.Just look at that rear end ! Really 
+inviting to shoot at !
+
+This is our first model and maybe there will be more to follow....

@@ -1,0 +1,18 @@
+9/02/07:    
+Angry Unmasked Barney -=CNC Version=-  (unm_barney.mdl used as a base)
+  
+Face: Cleaned up, realigned and modified original face texture (He's mad, now! Watch out!) 
+Jacket & sleaves: my original textures
+Pants: modified from a zombie GTA:VC(PC) Tommy skin (unknown author)
+Shoes: unmodified from original
+Hands: modified existing (didn't help much)
+Model architecture: unmodified
+
+
+1/03/09:
+Original unm_barney model converted to 4.0b animations by Sven Co-op team.
+
+NOTE: see "readme.txt" for original author credits
+
+
+-Marb750
