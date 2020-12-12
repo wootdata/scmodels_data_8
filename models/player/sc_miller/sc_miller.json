@@ -1,1 +1,1 @@
-{"tri_count": "4560", "events": [{"frame": "0", "seq": "182", "file": "barney/ba_pain3.wav"}, {"frame": "0", "seq": "184", "file": "barney/ba_pain2.wav"}], "seq_groups": 1}
+{"seq_groups": 1, "events": [{"frame": "0", "seq": "182", "file": "barney/ba_pain3.wav"}, {"frame": "0", "seq": "184", "file": "barney/ba_pain2.wav"}], "tri_count": "4560", "hash": "357d6f639c4d402bba426fc7dfb75afa"}
