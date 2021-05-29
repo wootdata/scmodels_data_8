@@ -1,1 +1,104 @@
-{"seq_groups": 1, "hash": "e9df057e4495bc625461b27023ebd5e0", "tri_count": "796"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "truck_lod0",
+					"polys": 796,
+					"verts": 508
+				}
+			],
+			"name": "LODS"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "e9df057e4495bc625461b27023ebd5e0",
+	"name": "truck_research.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 1.000000,
+			"frames": 2,
+			"name": "idle_closed"
+		}, 
+		{
+			"fps": 1.000000,
+			"frames": 2,
+			"name": "idle_open"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Truck_body",
+			"parent": -1
+		}, 
+		{
+			"name": "C_Door",
+			"parent": 0
+		}, 
+		{
+			"name": "L_Door",
+			"parent": 0
+		}, 
+		{
+			"name": "R_Door",
+			"parent": 0
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "TRUCK_BOTTOM.BMP",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "TRUCK_CAB_SIDE.BMP",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "TRAILER_SIDE.BMP",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "TRUCK_FRONT.BMP",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "TRAILER_BACK.BMP",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "TRAILER_TOP.BMP",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "Tire.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "TRUCK_INTERIOR.BMP",
+			"width": 128
+		}
+	],
+	"version": 10
+}

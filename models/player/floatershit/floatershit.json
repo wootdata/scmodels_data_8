@@ -1,1 +1,183 @@
-{"seq_groups": 1, "hash": "f9e8f23bd550c9dd1547603cd42b22bc", "tri_count": "422"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "reference",
+					"polys": 422,
+					"verts": 227
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "f9e8f23bd550c9dd1547603cd42b22bc",
+	"name": "valve/models/floater.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 101,
+			"name": "idle1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Dummy01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 1
+		}, 
+		{
+			"name": "Bone03",
+			"parent": 2
+		}, 
+		{
+			"name": "Bone04",
+			"parent": 3
+		}, 
+		{
+			"name": "Bone05",
+			"parent": 4
+		}, 
+		{
+			"name": "Bone06",
+			"parent": 5
+		}, 
+		{
+			"name": "Bone07",
+			"parent": 6
+		}, 
+		{
+			"name": "Bone08",
+			"parent": 7
+		}, 
+		{
+			"name": "Bone33",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone34",
+			"parent": 9
+		}, 
+		{
+			"name": "Bone35",
+			"parent": 10
+		}, 
+		{
+			"name": "Bone36",
+			"parent": 11
+		}, 
+		{
+			"name": "Bone37",
+			"parent": 12
+		}, 
+		{
+			"name": "Bone23",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone24",
+			"parent": 14
+		}, 
+		{
+			"name": "Bone09",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone10",
+			"parent": 16
+		}, 
+		{
+			"name": "Bone11",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone12",
+			"parent": 18
+		}, 
+		{
+			"name": "Bone29",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone30",
+			"parent": 20
+		}, 
+		{
+			"name": "Bone19",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone20",
+			"parent": 22
+		}, 
+		{
+			"name": "Bone21",
+			"parent": 23
+		}, 
+		{
+			"name": "Bone26",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone27",
+			"parent": 25
+		}, 
+		{
+			"name": "Bone14",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone15",
+			"parent": 27
+		}, 
+		{
+			"name": "Bone16",
+			"parent": 28
+		}, 
+		{
+			"name": "Bone17",
+			"parent": 29
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 104,
+			"name": "midside.bmp",
+			"width": 208
+		}, 
+		{
+			"flags": 0,
+			"height": 49,
+			"name": "botside.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 26,
+			"name": "peashooter.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 61,
+			"name": "topside.bmp",
+			"width": 76
+		}
+	],
+	"version": 10
+}

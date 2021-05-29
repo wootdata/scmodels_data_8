@@ -1,1 +1,1437 @@
-{"seq_groups": 1, "hash": "0865d355ecd10db67b6c6b9dab69de34", "tri_count": "3504"}
+{
+	"attachments": [
+		{
+			"bone": 16,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 12,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "gunsmith",
+					"polys": 3504,
+					"verts": 1961
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "30",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "10",
+			"sequence": 49,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "10",
+			"sequence": 53,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "10",
+			"sequence": 57,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "10",
+			"sequence": 61,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "50",
+			"sequence": 65,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "50",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "30",
+			"sequence": 73,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "30",
+			"sequence": 76,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "30",
+			"sequence": 79,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "30",
+			"sequence": 83,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "50",
+			"sequence": 87,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "50",
+			"sequence": 91,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 95,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 98,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "40",
+			"sequence": 107,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 110,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "40",
+			"sequence": 113,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "40",
+			"sequence": 115,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 119,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 121,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 125,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 128,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "10",
+			"sequence": 132,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "10",
+			"sequence": 133,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "10",
+			"sequence": 134,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "10",
+			"sequence": 140,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "10",
+			"sequence": 141,
+			"type": 0
+		}, 
+		{
+			"event": 5011,
+			"frame": 0,
+			"options": "10",
+			"sequence": 142,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "40",
+			"sequence": 147,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "40",
+			"sequence": 148,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 153,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 154,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "40",
+			"sequence": 159,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "40",
+			"sequence": 161,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 165,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 1,
+			"options": "40",
+			"sequence": 167,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 171,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 175,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "0865d355ecd10db67b6c6b9dab69de34",
+	"name": "gunsmith.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_1"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_3"
+		}, 
+		{
+			"fps": 60.000000,
+			"frames": 37,
+			"name": "run"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 65,
+			"name": "walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "ref_shoot_rifle_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouchrun"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 31,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 61,
+			"name": "jump"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 61,
+			"name": "longjump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "swim"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 51,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 45,
+			"name": "death1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 76,
+			"name": "death2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "death3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "head"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "back"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_aim_knife_1"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_aim_knife_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 42,
+			"name": "ref_shoot_knife_blend5"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 1,
+			"name": "crouch_aim_knife_1"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 1,
+			"name": "crouch_aim_knife_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "crouch_shoot_knife_blend5"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_aim_hammer_blend5"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_aim_hammer_blend5"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 61,
+			"name": "ref_shoot_hammer_blend5"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "crouch_aim_hammer_blend5"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "crouch_aim_hammer_blend5"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 61,
+			"name": "crouch_shoot_hammer_blend5"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "ref_aim_grenade_1"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "ref_aim_grenade_2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "ref_aim_grenade_3"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "ref_aim_grenade_4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "ref_shoot_grenade"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "crouch_aim_grenade_1"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "crouch_aim_grenade_2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "crouch_aim_grenade_3"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "crouch_aim_grenade_4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_shoot_grenade"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_aim_knife_5"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_aim_knife_6"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "ref_shoot_knife_3"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 1,
+			"name": "crouch_aim_knife_5"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 1,
+			"name": "crouch_aim_knife_6"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "crouch_shoot_knife_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_onehanded_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_onehanded_2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "ref_shoot_onehanded_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "ref_reload_onehanded_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_onehanded_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_onehanded_2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "crouch_shoot_onehanded_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "crouch_reload_onehanded_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_onehanded_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_onehanded_4"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "ref_shoot_onehanded_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "ref_reload_onehanded_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_onehanded_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_onehanded_4"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 5,
+			"name": "crouch_shoot_onehanded_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "crouch_reload_onehanded_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_shotgun_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_shotgun_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "ref_shoot_shotgun"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 76,
+			"name": "ref_reload_shotgun"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_shotgun_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_shotgun_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_shoot_shotgun"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 76,
+			"name": "crouch_reload_shotgun"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_rifle_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_rifle_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "ref_shoot_rifle_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_rifle_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_rifle_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "crouch_shoot_rifle_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_rifle_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_rifle_4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "ref_shoot_rifle_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "ref_reload_rifle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_rifle_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_rifle_4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "crouch_shoot_rifle_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "crouch_reload_rifle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_at4_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_at4_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 12,
+			"name": "ref_shoot_at4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 110,
+			"name": "ref_reload_at4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "crouch_aim_at4_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "crouch_aim_at4_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 12,
+			"name": "crouch_shoot_at4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 110,
+			"name": "crouch_reload_at4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_m134_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_m134_2"
+		}, 
+		{
+			"fps": 120.000000,
+			"frames": 6,
+			"name": "ref_shoot_m134_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "crouch_aim_m134_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "crouch_aim_m134_2"
+		}, 
+		{
+			"fps": 120.000000,
+			"frames": 6,
+			"name": "crouch_shoot_m134_1"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_aim_knife_7"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 31,
+			"name": "ref_aim_knife_8"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "ref_shoot_knife_4"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 1,
+			"name": "crouch_aim_knife_7"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 1,
+			"name": "crouch_aim_knife_8"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "crouch_shoot_knife_4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_ak47_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_ak47_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "ref_shoot_ak47_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_ak47_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_ak47_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "crouch_shoot_ak47_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_ak47_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_ak47_4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "ref_shoot_ak47_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_ak47_5"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "ref_shoot_ak47_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "ref_reload_ak47_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_ak47_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_ak47_4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "crouch_shoot_ak47_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_ak47_5"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "crouch_shoot_ak47_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "crouch_reload_ak47_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_m134_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_m134_4"
+		}, 
+		{
+			"fps": 120.000000,
+			"frames": 6,
+			"name": "ref_shoot_m134_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "crouch_aim_m134_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "crouch_aim_m134_4"
+		}, 
+		{
+			"fps": 120.000000,
+			"frames": 6,
+			"name": "crouch_shoot_m134_2"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "ref_aim_dualpistols_1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "ref_aim_dualpistols_2"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "ref_aim_dualpistols_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "ref_shoot_dualpistols_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "ref_shoot2_dualpistols"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "ref_shoot_dualpistols_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "ref_reload_onehanded_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "ref_reload_dualpistols"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "crouch_aim_dualpistols_1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "crouch_aim_dualpistols_2"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "crouch_aim_dualpistols_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_shoot_dualpistols_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_shoot2_dualpistols"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "crouch_shoot_dualpistols_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "crouch_reload_onehanded_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "crouch_reload_dualpistols"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_ak47_6"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_ak47_7"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "ref_shoot_ak47_4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "ref_shoot_ak47_5"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "ref_reload_ak47_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "ref_reload_ak47_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_ak47_6"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_ak47_7"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "crouch_shoot_ak47_4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "crouch_shoot_ak47_5"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "crouch_reload_ak47_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "crouch_reload_ak47_3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_ak47_8"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_ak47_9"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "ref_shoot_ak47_6"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "ref_aim_ak47_10"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "ref_shoot_ak47_7"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "ref_reload_ak47_4"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_ak47_8"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_ak47_9"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "crouch_shoot_ak47_6"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "crouch_aim_ak47_10"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "crouch_shoot_ak47_7"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 91,
+			"name": "crouch_reload_ak47_4"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "ref_aim_m249_1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "ref_aim_m249_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "ref_shoot_m249"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "ref_reload_m249"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 1,
+			"name": "crouch_aim_m249_1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 1,
+			"name": "crouch_aim_m249_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 6,
+			"name": "crouch_shoot_m249"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "crouch_reload_m249"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_4"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_5"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_6"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_7"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_8"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_9"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_10"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_11"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_12"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_13"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_14"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_15"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_16"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 40,
+			"name": "idle1_17"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Eye_Sub",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 15
+		}, 
+		{
+			"name": "Breast_Sub",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 20
+		}, 
+		{
+			"name": "L Calf_Sub",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 25
+		}, 
+		{
+			"name": "R Calf_Sub",
+			"parent": 23
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "gunsmith.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}

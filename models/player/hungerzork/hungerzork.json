@@ -1,1 +1,528 @@
-{"seq_groups": 2, "events": [{"seq": "23", "frame": "1", "file": "weapons/bullet_hit1.wav"}, {"seq": "23", "frame": "24", "file": "weapons/bullet_hit2.wav"}, {"seq": "23", "frame": "44", "file": "agrunt/ag_alert3.wav"}, {"seq": "23", "frame": "62", "file": "weapons/bullet_hit1.wav"}, {"seq": "24", "frame": "5", "file": "agrunt/ag_alert1.wav"}], "hash": "a072b62dd3caa58501d1253ee87f8f31", "tri_count": "689", "t_model": "hungerzorkt.mdl"}
+{
+	"attachments": [
+		{
+			"bone": 21,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "frankie",
+					"polys": 689,
+					"verts": 341
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "blank",
+					"polys": 0,
+					"verts": 0
+				}, 
+				{
+					"name": "blank",
+					"polys": 0,
+					"verts": 0
+				}
+			],
+			"name": "arm"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 13,
+			"end": 45.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -45.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 22,
+			"end": 20.000000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
+		}
+	],
+	"events": [
+		{
+			"event": 10,
+			"frame": 9,
+			"options": "",
+			"sequence": 2,
+			"type": 0
+		}, 
+		{
+			"event": 11,
+			"frame": 19,
+			"options": "",
+			"sequence": 2,
+			"type": 0
+		}, 
+		{
+			"event": 10,
+			"frame": 11,
+			"options": "",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 11,
+			"frame": 23,
+			"options": "",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 13,
+			"frame": 8,
+			"options": "",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 12,
+			"frame": 7,
+			"options": "",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 2002,
+			"frame": 15,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2002,
+			"frame": 14,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 2002,
+			"frame": 10,
+			"options": "",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 2002,
+			"frame": 6,
+			"options": "",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 2002,
+			"frame": 25,
+			"options": "",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 1,
+			"options": "weapons/bullet_hit1.wav",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 24,
+			"options": "weapons/bullet_hit2.wav",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 44,
+			"options": "agrunt/ag_alert3.wav",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 62,
+			"options": "weapons/bullet_hit1.wav",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 1003,
+			"frame": 2,
+			"options": "door",
+			"sequence": 24,
+			"type": 0
+		}, 
+		{
+			"event": 1008,
+			"frame": 5,
+			"options": "agrunt/ag_alert1.wav",
+			"sequence": 24,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "4caddc43af1fda3f3a73a73422073831",
+	"name": "D:\\hunger\\agrunt.mdl",
+	"seq_groups": "2",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 90,
+			"name": "threat"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 20,
+			"name": "walk"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 26,
+			"name": "run"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 21,
+			"name": "turnl"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 20,
+			"name": "turnr"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 10,
+			"name": "smallflinch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 55,
+			"name": "bigflinch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "mattack2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "mattack3"
+		}, 
+		{
+			"fps": 5.000000,
+			"frames": 15,
+			"name": "victorysquat"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 30,
+			"name": "victoryeat"
+		}, 
+		{
+			"fps": 5.000000,
+			"frames": 15,
+			"name": "victorysquat"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 13,
+			"name": "larmflinch"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 14,
+			"name": "llegflinch"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 13,
+			"name": "rarmflinch"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 14,
+			"name": "rlegflinch"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 26,
+			"name": "diehead"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 21,
+			"name": "diegut"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 21,
+			"name": "dieforward"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 11,
+			"name": "diesimple"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "diebackward"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 51,
+			"name": "float"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 87,
+			"name": "scare"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 36,
+			"name": "bigopen"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "smashrail"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 23,
+			"name": "landhard"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "cw_sleep_head"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 26,
+			"name": "cw_awake_head"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "cw_sleep_back"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "cw_awake_back"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 1,
+			"name": "cw_sleep_table"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 91,
+			"name": "cw_struggle_table"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 15,
+			"name": "cw_bustout_table"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 20
+		}, 
+		{
+			"name": "mouth",
+			"parent": 13
+		}
+	],
+	"skins": 1,
+	"t_model": true,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 304,
+			"name": "body.bmp",
+			"width": 292
+		}, 
+		{
+			"flags": 0,
+			"height": 49,
+			"name": "SK_Foot1.bmp",
+			"width": 20
+		}, 
+		{
+			"flags": 0,
+			"height": 135,
+			"name": "skin_arms.bmp",
+			"width": 208
+		}, 
+		{
+			"flags": 0,
+			"height": 84,
+			"name": "Sci3(L-Leg).bmp",
+			"width": 28
+		}, 
+		{
+			"flags": 0,
+			"height": 5,
+			"name": "Sci3(Shoe).bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 65,
+			"name": "Sci3(Pelvis).bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 61,
+			"name": "Sci3(C-Tail).bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 74,
+			"name": "SCI3_LegBack1.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 17,
+			"name": "SCI3_Collar1.bmp",
+			"width": 44
+		}, 
+		{
+			"flags": 0,
+			"height": 80,
+			"name": "Sci3(R-Leg).bmp",
+			"width": 28
+		}, 
+		{
+			"flags": 0,
+			"height": 22,
+			"name": "Sci2_Hand1.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 33,
+			"name": "Sci2_Knuckles.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 263,
+			"name": "face.bmp",
+			"width": 172
+		}
+	],
+	"version": 10
+}
