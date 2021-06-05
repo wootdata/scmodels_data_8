@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_body1",
+					"name": "body1",
 					"polys": 3374,
 					"verts": 1718
 				}
@@ -35,7 +35,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_body2",
+					"name": "body2",
 					"polys": 3374,
 					"verts": 1718
 				}
@@ -45,7 +45,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_leg",
+					"name": "leg",
 					"polys": 3424,
 					"verts": 1728
 				}
@@ -55,7 +55,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_head1",
+					"name": "head1",
 					"polys": 744,
 					"verts": 462
 				}
@@ -65,7 +65,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_head2",
+					"name": "head2",
 					"polys": 2729,
 					"verts": 1616
 				}
@@ -75,7 +75,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_hair1",
+					"name": "hair1",
 					"polys": 864,
 					"verts": 712
 				}
@@ -85,7 +85,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_hair2",
+					"name": "hair2",
 					"polys": 614,
 					"verts": 349
 				}
@@ -95,7 +95,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_hair3",
+					"name": "hair3",
 					"polys": 564,
 					"verts": 386
 				}
@@ -105,7 +105,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_hair4",
+					"name": "hair4",
 					"polys": 1612,
 					"verts": 991
 				}
@@ -115,9 +115,9 @@
 		{
 			"models": [
 				{
-					"name": "sanae_c1",
+					"name": "c1",
 					"polys": 2764,
-					"verts": 1413
+					"verts": 1414
 				}
 			],
 			"name": "body"
@@ -125,7 +125,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_c2",
+					"name": "c2",
 					"polys": 1392,
 					"verts": 695
 				}
@@ -135,7 +135,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_c3",
+					"name": "c3",
 					"polys": 1526,
 					"verts": 763
 				}
@@ -145,7 +145,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_c4",
+					"name": "c4",
 					"polys": 3944,
 					"verts": 1982
 				}
@@ -155,7 +155,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_op",
+					"name": "op",
 					"polys": 525,
 					"verts": 255
 				}
@@ -165,7 +165,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_dress1",
+					"name": "dress1",
 					"polys": 2189,
 					"verts": 1156
 				}
@@ -175,7 +175,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_dress3",
+					"name": "dress3",
 					"polys": 3300,
 					"verts": 1721
 				}
@@ -185,7 +185,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_arm",
+					"name": "arm",
 					"polys": 880,
 					"verts": 480
 				}
@@ -195,7 +195,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_under",
+					"name": "under",
 					"polys": 568,
 					"verts": 367
 				}
@@ -205,7 +205,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_foot1",
+					"name": "foot1",
 					"polys": 963,
 					"verts": 490
 				}
@@ -215,7 +215,7 @@
 		{
 			"models": [
 				{
-					"name": "sanae_foot2",
+					"name": "foot2",
 					"polys": 963,
 					"verts": 490
 				}
@@ -366,14 +366,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -491,8 +491,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "472e0d2b3805b649e034f61c00ed0881",
-	"name": "robo.mdl",
+	"md5": "0575586ea9ccee0ed4d60d7b6e1fba00",
+	"name": "touhou_kochiya_sanae.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -542,7 +542,7 @@
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 31,
+			"frames": 37,
 			"name": "long_jump"
 		}, 
 		{
@@ -592,17 +592,17 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 32,
+			"frames": 7,
 			"name": "ref_draw_crowbar"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 32,
+			"frames": 21,
 			"name": "ref_aim_crowbar"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 32,
+			"frames": 13,
 			"name": "ref_shoot_crowbar"
 		}, 
 		{
@@ -622,7 +622,7 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 32,
+			"frames": 9,
 			"name": "ref_cock_wrench"
 		}, 
 		{
@@ -632,7 +632,7 @@
 		}, 
 		{
 			"fps": 13.000000,
-			"frames": 32,
+			"frames": 14,
 			"name": "ref_shoot_wrench"
 		}, 
 		{
@@ -1451,7 +1451,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2152328,
+	"size": 2123756,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1624,7 +1624,7 @@
 			"width": 100
 		}, 
 		{
-			"flags": 64,
+			"flags": 0,
 			"height": 200,
 			"name": "t013.bmp",
 			"width": 200
