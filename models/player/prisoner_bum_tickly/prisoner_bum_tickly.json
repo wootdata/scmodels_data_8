@@ -16,7 +16,7 @@
 			"type": 0
 		}, 
 		{
-			"bone": 10,
+			"bone": 16,
 			"name": "",
 			"type": 0
 		}
@@ -25,47 +25,27 @@
 		{
 			"models": [
 				{
-					"name": "SC_male_torso_ref",
-					"polys": 2628,
-					"verts": 1186
+					"name": "th_civpaul_Body_Civilian_Paul",
+					"polys": 463,
+					"verts": 238
 				}
 			],
-			"name": "torso"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "SC_barney_head_ref",
-					"polys": 730,
-					"verts": 424
+					"name": "th_civpaul_Head_Paul",
+					"polys": 248,
+					"verts": 66
 				}
 			],
 			"name": "head"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SC_male_legs_ref",
-					"polys": 916,
-					"verts": 509
-				}
-			],
-			"name": "legs"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SC_male_beltholster_ref",
-					"polys": 286,
-					"verts": 164
-				}
-			],
-			"name": "holster"
 		}
 	],
 	"controllers": [
 		{
-			"bone": 2,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -73,7 +53,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 3,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -81,7 +61,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 4,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -89,20 +69,12 @@
 			"type": 8
 		}, 
 		{
-			"bone": 5,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 34,
-			"end": 25.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 32
 		}
 	],
 	"events": [
@@ -339,8 +311,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "bc1c31d1f25e29abc1003423dfcd9d13",
-	"name": "hevbarney.mdl",
+	"md5": "111706d04bd5c52614171dcdd5ab2414",
+	"name": "th_civpaul.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1264,12 +1236,12 @@
 			"name": "barnaclepull"
 		}, 
 		{
-			"fps": 18.000000,
+			"fps": 10.000000,
 			"frames": 36,
 			"name": "barnaclecrunch"
 		}, 
 		{
-			"fps": 15.000000,
+			"fps": 6.000000,
 			"frames": 36,
 			"name": "barnaclechew"
 		}, 
@@ -1285,7 +1257,7 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 66,
+			"frames": 71,
 			"name": "action_retina"
 		}, 
 		{
@@ -1299,7 +1271,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2018968,
+	"size": 896184,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1310,68 +1282,68 @@
 			"parent": 0
 		}, 
 		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 Spine",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 2
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
 			"parent": 8
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 Spine2",
 			"parent": 9
 		}, 
 		{
-			"name": "Bip01 L Finger0",
+			"name": "Bip01 Spine3",
 			"parent": 10
 		}, 
 		{
-			"name": "Bip01 L Finger01",
+			"name": "Bip01 Neck",
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 L Finger02",
+			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
-			"name": "Bip01 L Finger1",
-			"parent": 10
+			"name": "Bip01 L Arm1",
+			"parent": 13
 		}, 
 		{
-			"name": "Bip01 L Finger11",
+			"name": "Bip01 L Arm2",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Finger12",
+			"name": "Bip01 L Hand",
 			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Arm",
-			"parent": 6
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
@@ -1386,84 +1358,8 @@
 			"parent": 19
 		}, 
 		{
-			"name": "Bip01 R Finger0",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 25
-		}, 
-		{
 			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "R_eyebrow",
-			"parent": 27
-		}, 
-		{
-			"name": "C_eyebrow",
-			"parent": 27
-		}, 
-		{
-			"name": "L_eyebrow",
-			"parent": 27
-		}, 
-		{
-			"name": "R_eye",
-			"parent": 27
-		}, 
-		{
-			"name": "Eyelids",
-			"parent": 27
-		}, 
-		{
-			"name": "L_eye",
-			"parent": 27
-		}, 
-		{
-			"name": "mouth",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 L Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 L Leg1",
-			"parent": 35
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 36
-		}, 
-		{
-			"name": "Bip01 R Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 R Leg1",
-			"parent": 38
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 39
+			"parent": 12
 		}
 	],
 	"skins": 1,
@@ -1471,93 +1367,93 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "RemapB_128_255_255.bmp",
-			"width": 512
+			"height": 83,
+			"name": "Sci3(Back2).bmp",
+			"width": 96
 		}, 
 		{
 			"flags": 0,
-			"height": 348,
-			"name": "RemapA_000_255_255.bmp",
-			"width": 404
+			"height": 84,
+			"name": "Sci3(L-Leg).bmp",
+			"width": 28
 		}, 
 		{
 			"flags": 0,
-			"height": 65,
-			"name": "elbow.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "PLAYER_Chrome1.bmp",
-			"width": 64
+			"height": 29,
+			"name": "Sci3(Shoe).bmp",
+			"width": 68
 		}, 
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "Sven_HEV_Glove.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "Chrome_50Gry1.bmp",
+			"height": 88,
+			"name": "Sci3(Chest).bmp",
 			"width": 64
 		}, 
 		{
 			"flags": 0,
 			"height": 64,
-			"name": "latex.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 64,
-			"height": 256,
-			"name": "sclogotrans.bmp",
-			"width": 256
+			"name": "Sci3(Pelvis).bmp",
+			"width": 76
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "HEV_neck.bmp",
-			"width": 256
+			"height": 61,
+			"name": "Sci3(C-Tail).bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 74,
+			"name": "SCI3_LegBack1.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 17,
+			"name": "SCI3_Collar1.bmp",
+			"width": 44
+		}, 
+		{
+			"flags": 0,
+			"height": 80,
+			"name": "Sci3(R-Leg).bmp",
+			"width": 28
+		}, 
+		{
+			"flags": 0,
+			"height": 93,
+			"name": "Sci3(R-Arm).bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 22,
+			"name": "Sci2_Hand1.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 33,
+			"name": "Sci2_Knuckles.bmp",
+			"width": 24
 		}, 
 		{
 			"flags": 0,
 			"height": 96,
-			"name": "remapC_000_255_255.bmp",
-			"width": 192
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "barney_helmet_Chrome.bmp",
-			"width": 64
+			"name": "Sci3(L-Arm).bmp",
+			"width": 36
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "barney_head_helmet_wht.bmp",
-			"width": 256
+			"height": 105,
+			"name": "L_Side1.bmp",
+			"width": 56
 		}, 
 		{
 			"flags": 0,
-			"height": 73,
-			"name": "knee.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 26,
-			"name": "hev_belt.bmp",
-			"width": 384
-		}, 
-		{
-			"flags": 0,
-			"height": 150,
-			"name": "hev_holster.bmp",
-			"width": 80
+			"height": 115,
+			"name": "L_Face1.bmp",
+			"width": 72
 		}
 	],
 	"version": 10

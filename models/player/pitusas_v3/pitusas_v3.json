@@ -16,7 +16,7 @@
 			"type": 0
 		}, 
 		{
-			"bone": 10,
+			"bone": 16,
 			"name": "",
 			"type": 0
 		}
@@ -25,42 +25,32 @@
 		{
 			"models": [
 				{
-					"name": "SC_male_torso_ref",
-					"polys": 2628,
-					"verts": 1186
+					"name": "DM_LegArm",
+					"polys": 120,
+					"verts": 73
 				}
 			],
-			"name": "torso"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "SC_barney_head_ref",
-					"polys": 730,
-					"verts": 424
+					"name": "DM_ShoesHands",
+					"polys": 1366,
+					"verts": 703
 				}
 			],
-			"name": "head"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "SC_male_legs_ref",
-					"polys": 916,
-					"verts": 509
+					"name": "Pitusas",
+					"polys": 124,
+					"verts": 64
 				}
 			],
-			"name": "legs"
-		}, 
-		{
-			"models": [
-				{
-					"name": "SC_male_beltholster_ref",
-					"polys": 286,
-					"verts": 164
-				}
-			],
-			"name": "holster"
+			"name": "body"
 		}
 	],
 	"controllers": [
@@ -95,14 +85,6 @@
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 34,
-			"end": 25.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 32
 		}
 	],
 	"events": [
@@ -339,8 +321,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "bc1c31d1f25e29abc1003423dfcd9d13",
-	"name": "hevbarney.mdl",
+	"md5": "b99725f6db0225a269b4cf97949edf72",
+	"name": "Pitusas.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1299,7 +1281,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2018968,
+	"size": 1151096,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1330,43 +1312,43 @@
 			"parent": 5
 		}, 
 		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 11
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 6
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 7
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 L Finger11",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Finger12",
+			"name": "Bip01 L Hand",
 			"parent": 15
 		}, 
 		{
@@ -1384,180 +1366,40 @@
 		{
 			"name": "Bip01 R Hand",
 			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 25
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 6
-		}, 
-		{
-			"name": "R_eyebrow",
-			"parent": 27
-		}, 
-		{
-			"name": "C_eyebrow",
-			"parent": 27
-		}, 
-		{
-			"name": "L_eyebrow",
-			"parent": 27
-		}, 
-		{
-			"name": "R_eye",
-			"parent": 27
-		}, 
-		{
-			"name": "Eyelids",
-			"parent": 27
-		}, 
-		{
-			"name": "L_eye",
-			"parent": 27
-		}, 
-		{
-			"name": "mouth",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 L Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 L Leg1",
-			"parent": 35
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 36
-		}, 
-		{
-			"name": "Bip01 R Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 R Leg1",
-			"parent": 38
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 39
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
+			"flags": 1073741827,
+			"height": 64,
+			"name": "remapD_160_191_233.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 1073741827,
+			"height": 64,
+			"name": "remapB_160_191_233.bmp",
+			"width": 64
+		}, 
+		{
 			"flags": 0,
-			"height": 512,
-			"name": "RemapB_128_255_255.bmp",
+			"height": 255,
+			"name": "glove.bmp",
+			"width": 508
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "neoLeatherBoots.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 320,
+			"name": "rollton.bmp",
 			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 348,
-			"name": "RemapA_000_255_255.bmp",
-			"width": 404
-		}, 
-		{
-			"flags": 0,
-			"height": 65,
-			"name": "elbow.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "PLAYER_Chrome1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "Sven_HEV_Glove.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "Chrome_50Gry1.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "latex.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 64,
-			"height": 256,
-			"name": "sclogotrans.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "HEV_neck.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 96,
-			"name": "remapC_000_255_255.bmp",
-			"width": 192
-		}, 
-		{
-			"flags": 3,
-			"height": 64,
-			"name": "barney_helmet_Chrome.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "barney_head_helmet_wht.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 73,
-			"name": "knee.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 26,
-			"name": "hev_belt.bmp",
-			"width": 384
-		}, 
-		{
-			"flags": 0,
-			"height": 150,
-			"name": "hev_holster.bmp",
-			"width": 80
 		}
 	],
 	"version": 10
