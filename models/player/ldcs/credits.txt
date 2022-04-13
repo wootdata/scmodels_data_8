@@ -1,0 +1,23 @@
+Hello. If you are an random person just messing around with the playermodels please ignore this model folder
+entirely as this acts as an resource folder and not *meant* for anyone to use.
+
+Note: the names with "E" next to them means they have been edited by the compiler of this very model
+
+Credits:
+Body Model E - LaCa
+Body Texture E - Paranoia Team
+Helmet Model- Paranoia Team
+Helmet Texture E - Paranoia Team
+Hands model, texutre - Team Psyskallar
+Head model E - Team Psyskallar
+
+Gadgets (off looking pouches, radio on the shoulder, handgun holster, E - Unknown
+Glock 18 Model,textures - Twinke Masta
+Ak74 - Unknown
+AWM Model E - Lonewolf
+AWM Texture E - fub
+M4A1 - Unknown
+Slings - Team Psyskallar
+Backpack - https://gamebanana.com/mods/167052
+Blue Bag Model, Textures E - Team Psyskallar
+Sonic - Unknown

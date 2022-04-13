@@ -1,0 +1,29 @@
+Cyborg Ninja/Gray Fox Pack - release v1.1
+----------------------------------------------
+Credits:
+-models: enix
+-skins: enix
+-animations: TS Team/enix
+-rig/compile: enix
+-3.0 conversion: spoon / norgsi
+----------------------------------------------
+So, I think you get the point, I made it all myself :p.
+
+I don't mind if you edit my model and skin, just make sure you give
+me credit for the original model and skin. 
+
+----------------------------------------------
+
+Installation:
+
+Just drop which version(s) you want into your ts models folder 
+
+ (C:\Program Files\Valve\Steam\SteamApps\*your username*\half-life\ts\models\player)
+
+Then select the model from the customize menu in the TS main menu and click apply.
+
+To use the katana, drop the p_katana.mdl file directly into the models folder, you may want
+to backup your current katana, just incase you want to go back to it.
+----------------------------------------------
+
+Well, thats it, hope you enjoy it, I worked my ass of on this pack and really hope you like it.

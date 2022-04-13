@@ -16,7 +16,7 @@
 			"type": 0
 		}, 
 		{
-			"bone": 17,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}
@@ -25,45 +25,55 @@
 		{
 			"models": [
 				{
-					"name": "c_marine",
-					"polys": 3424,
-					"verts": 1115
+					"name": "mercenary",
+					"polys": 2154,
+					"verts": 1098
 				}
 			],
-			"name": "marine"
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Knives",
+					"polys": 1760,
+					"verts": 830
+				}
+			],
+			"name": "head"
 		}
 	],
 	"controllers": [
 		{
 			"bone": 8,
-			"end": 22.000000,
+			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
-			"start": -22.000000,
+			"start": -30.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 9,
-			"end": 22.000000,
+			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
-			"start": -22.000000,
+			"start": -30.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 10,
-			"end": 22.000000,
+			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
-			"start": -22.000000,
+			"start": -30.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 11,
-			"end": 22.000000,
+			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
-			"start": -22.000000,
+			"start": -30.000000,
 			"type": 8
 		}
 	],
@@ -120,189 +130,189 @@
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "15",
+			"options": "21",
 			"sequence": 49,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "15",
+			"options": "21",
 			"sequence": 53,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "15",
+			"options": "31",
 			"sequence": 57,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "15",
+			"options": "31",
 			"sequence": 61,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "15",
+			"options": "51",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "15",
+			"options": "51",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "20",
+			"options": "40",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
 			"event": 5011,
 			"frame": 0,
-			"options": "20",
+			"options": "40",
 			"sequence": 83,
 			"type": 0
 		}, 
 		{
-			"event": 5021,
+			"event": 5001,
 			"frame": 0,
-			"options": "20",
+			"options": "30",
+			"sequence": 112,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "31",
+			"sequence": 113,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "32",
+			"sequence": 118,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "33",
+			"sequence": 119,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "30",
+			"sequence": 124,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "31",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
+			"event": 5001,
+			"frame": 0,
+			"options": "33",
+			"sequence": 130,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "34",
+			"sequence": 131,
+			"type": 0
+		}, 
+		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
-			"sequence": 128,
+			"options": "42",
+			"sequence": 137,
 			"type": 0
 		}, 
 		{
-			"event": 5001,
+			"event": 5021,
 			"frame": 0,
-			"options": "15",
-			"sequence": 132,
-			"type": 0
-		}, 
-		{
-			"event": 5031,
-			"frame": 0,
-			"options": "15",
-			"sequence": 132,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 0,
-			"options": "15",
-			"sequence": 133,
-			"type": 0
-		}, 
-		{
-			"event": 5031,
-			"frame": 0,
-			"options": "15",
-			"sequence": 134,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 0,
-			"options": "15",
-			"sequence": 140,
-			"type": 0
-		}, 
-		{
-			"event": 5031,
-			"frame": 0,
-			"options": "15",
+			"options": "42",
 			"sequence": 140,
 			"type": 0
 		}, 
 		{
 			"event": 5001,
 			"frame": 0,
-			"options": "15",
-			"sequence": 141,
+			"options": "25",
+			"sequence": 144,
 			"type": 0
 		}, 
 		{
 			"event": 5031,
 			"frame": 0,
-			"options": "15",
-			"sequence": 142,
+			"options": "25",
+			"sequence": 144,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5001,
 			"frame": 0,
-			"options": "muzzle_spaw.txt",
-			"sequence": 147,
+			"options": "25",
+			"sequence": 145,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5031,
 			"frame": 0,
-			"options": "muzzle_spaw.txt",
+			"options": "25",
+			"sequence": 146,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "25",
+			"sequence": 152,
+			"type": 0
+		}, 
+		{
+			"event": 5031,
+			"frame": 0,
+			"options": "25",
+			"sequence": 152,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "25",
 			"sequence": 153,
 			"type": 0
 		}, 
 		{
-			"event": 5021,
+			"event": 5031,
 			"frame": 0,
-			"options": "15",
-			"sequence": 159,
-			"type": 0
-		}, 
-		{
-			"event": 5011,
-			"frame": 0,
-			"options": "15",
-			"sequence": 161,
-			"type": 0
-		}, 
-		{
-			"event": 5011,
-			"frame": 0,
-			"options": "15",
-			"sequence": 165,
-			"type": 0
-		}, 
-		{
-			"event": 5011,
-			"frame": 0,
-			"options": "15",
-			"sequence": 167,
-			"type": 0
-		}, 
-		{
-			"event": 5005,
-			"frame": 0,
-			"options": "muzzle_spaw.txt",
-			"sequence": 171,
-			"type": 0
-		}, 
-		{
-			"event": 5005,
-			"frame": 0,
-			"options": "muzzle_spaw.txt",
-			"sequence": 175,
+			"options": "25",
+			"sequence": 154,
 			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "8381c029cd2825f249a0dd05b011dc02",
-	"name": "billy.mdl",
+	"md5": "a6adad9e171543ffc3091409c3ba3f9c",
+	"name": "C:\\Unzipped\\[528]Matrix_pack\\billy3\\billy.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -322,13 +332,13 @@
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 25,
-			"name": "run2"
+			"frames": 23,
+			"name": "run"
 		}, 
 		{
-			"fps": 20.000000,
+			"fps": 15.000000,
 			"frames": 17,
-			"name": "walk2handed"
+			"name": "walk"
 		}, 
 		{
 			"fps": 20.000000,
@@ -347,7 +357,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 128,
+			"frames": 34,
 			"name": "jump"
 		}, 
 		{
@@ -431,7 +441,7 @@
 			"name": "crouch_shoot_crowbar"
 		}, 
 		{
-			"fps": 10.000000,
+			"fps": 7.000000,
 			"frames": 9,
 			"name": "ref_cock_wrench"
 		}, 
@@ -446,7 +456,7 @@
 			"name": "ref_shoot_wrench"
 		}, 
 		{
-			"fps": 10.000000,
+			"fps": 7.000000,
 			"frames": 9,
 			"name": "crouch_cock_wrench"
 		}, 
@@ -922,176 +932,6 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 16,
-			"name": "ref_draw_minigun"
-		}, 
-		{
-			"fps": 8.000000,
-			"frames": 21,
-			"name": "ref_aim_minigun"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 9,
-			"name": "ref_shoot_minigun"
-		}, 
-		{
-			"fps": 15.000000,
-			"frames": 16,
-			"name": "crouch_draw_minigun"
-		}, 
-		{
-			"fps": 8.000000,
-			"frames": 21,
-			"name": "crouch_aim_minigun"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 9,
-			"name": "crouch_shoot_minigun"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 11,
-			"name": "ref_draw_uzis"
-		}, 
-		{
-			"fps": 11.000000,
-			"frames": 23,
-			"name": "ref_draw_uzis_left"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 21,
-			"name": "ref_aim_uzis"
-		}, 
-		{
-			"fps": 24.000000,
-			"frames": 7,
-			"name": "ref_shoot_uzis_both"
-		}, 
-		{
-			"fps": 24.000000,
-			"frames": 7,
-			"name": "ref_shoot_uzis_right"
-		}, 
-		{
-			"fps": 24.000000,
-			"frames": 7,
-			"name": "ref_shoot_uzis_left"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 35,
-			"name": "ref_reload_uzis_right"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 35,
-			"name": "ref_reload_uzis_left"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 11,
-			"name": "crouch_draw_uzis"
-		}, 
-		{
-			"fps": 11.000000,
-			"frames": 23,
-			"name": "crouch_draw_uzis_left"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 21,
-			"name": "crouch_aim_uzis"
-		}, 
-		{
-			"fps": 24.000000,
-			"frames": 7,
-			"name": "crouch_shoot_uzis_both"
-		}, 
-		{
-			"fps": 24.000000,
-			"frames": 7,
-			"name": "crouch_shoot_uzis_right"
-		}, 
-		{
-			"fps": 24.000000,
-			"frames": 7,
-			"name": "crouch_shoot_uzis_left"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 35,
-			"name": "crouch_reload_uzis_right"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 35,
-			"name": "crouch_reload_uzis_left"
-		}, 
-		{
-			"fps": 35.000000,
-			"frames": 21,
-			"name": "ref_draw_m16"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 21,
-			"name": "ref_aim_m16"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 8,
-			"name": "ref_shoot_m16"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 6,
-			"name": "ref_shoot_m203"
-		}, 
-		{
-			"fps": 32.000000,
-			"frames": 101,
-			"name": "ref_reload_m16"
-		}, 
-		{
-			"fps": 35.000000,
-			"frames": 66,
-			"name": "ref_reload_m203"
-		}, 
-		{
-			"fps": 35.000000,
-			"frames": 21,
-			"name": "crouch_draw_m16"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 21,
-			"name": "crouch_aim_m16"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 8,
-			"name": "crouch_shoot_m16"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 6,
-			"name": "crouch_shoot_m203"
-		}, 
-		{
-			"fps": 32.000000,
-			"frames": 101,
-			"name": "crouch_reload_m16"
-		}, 
-		{
-			"fps": 35.000000,
-			"frames": 66,
-			"name": "crouch_reload_m203"
-		}, 
-		{
-			"fps": 15.000000,
 			"frames": 11,
 			"name": "ref_draw_sniper"
 		}, 
@@ -1116,7 +956,7 @@
 			"name": "ref_shoot_sniperscope"
 		}, 
 		{
-			"fps": 22.000000,
+			"fps": 11.000000,
 			"frames": 46,
 			"name": "ref_reload_sniper"
 		}, 
@@ -1146,49 +986,119 @@
 			"name": "crouch_shoot_sniperscope"
 		}, 
 		{
-			"fps": 22.000000,
+			"fps": 11.000000,
 			"frames": 46,
 			"name": "crouch_reload_sniper"
 		}, 
 		{
-			"fps": 24.000000,
-			"frames": 21,
-			"name": "ref_draw_saw"
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "ref_draw_minigun"
 		}, 
 		{
-			"fps": 12.000000,
+			"fps": 8.000000,
 			"frames": 21,
-			"name": "ref_aim_saw"
-		}, 
-		{
-			"fps": 24.000000,
-			"frames": 5,
-			"name": "ref_shoot_saw"
+			"name": "ref_aim_minigun"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 211,
-			"name": "ref_reload_saw"
+			"frames": 9,
+			"name": "ref_shoot_minigun"
 		}, 
 		{
-			"fps": 24.000000,
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "crouch_draw_minigun"
+		}, 
+		{
+			"fps": 8.000000,
 			"frames": 21,
-			"name": "crouch_draw_saw"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 21,
-			"name": "crouch_aim_saw"
-		}, 
-		{
-			"fps": 24.000000,
-			"frames": 5,
-			"name": "crouch_shoot_saw"
+			"name": "crouch_aim_minigun"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 211,
-			"name": "crouch_reload_saw"
+			"frames": 9,
+			"name": "crouch_shoot_minigun"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 11,
+			"name": "ref_draw_uzis"
+		}, 
+		{
+			"fps": 13.000000,
+			"frames": 23,
+			"name": "ref_draw_uzis_left"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 21,
+			"name": "ref_aim_uzis"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "ref_shoot_uzis_both"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "ref_shoot_uzis_right"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "ref_shoot_uzis_left"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 35,
+			"name": "ref_reload_uzis_right"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 35,
+			"name": "ref_reload_uzis_left"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 11,
+			"name": "crouch_draw_uzis"
+		}, 
+		{
+			"fps": 13.000000,
+			"frames": 23,
+			"name": "crouch_draw_uzis_left"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 21,
+			"name": "crouch_aim_uzis"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "crouch_shoot_uzis_both"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "crouch_shoot_uzis_right"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 7,
+			"name": "crouch_shoot_uzis_left"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 35,
+			"name": "crouch_reload_uzis_right"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 35,
+			"name": "crouch_reload_uzis_left"
 		}, 
 		{
 			"fps": 10.000000,
@@ -1213,10 +1123,10 @@
 		{
 			"fps": 10.000000,
 			"frames": 1,
-			"name": "ShannonCaldwell_v1.2"
+			"name": "ShannonCaldwell_v1.0"
 		}
 	],
-	"size": 1610456,
+	"size": 1724164,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1271,24 +1181,16 @@
 			"parent": 11
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 14
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 16
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1296,15 +1198,23 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 18
 		}
 	],
 	"skins": 1,
@@ -1312,21 +1222,63 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "legs.bmp",
+			"height": 256,
+			"name": "frame.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "cigar.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "head9.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "2.bmp",
+			"height": 128,
+			"name": "hands.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 305,
+			"name": "seal_arm.bmp",
+			"width": 220
+		}, 
+		{
+			"flags": 0,
+			"height": 430,
+			"name": "seal_body16.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "3.bmp",
+			"height": 370,
+			"name": "seal_legs.bmp",
 			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 1,
+			"name": "Lens.bmp",
+			"width": 4
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "throwingknifedarker.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "sheath.bmp",
+			"width": 256
 		}
 	],
 	"version": 10

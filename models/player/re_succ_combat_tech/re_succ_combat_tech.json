@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "sas",
+					"name": "re_succ_combat_tech_sas",
 					"polys": 1403,
 					"verts": 768
 				}
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "8587c36dee37ae0381a94928c395bf8b",
-	"name": "re_succ_combat_technician.mdl",
+	"md5": "5304c542c378e09995ff870ec2893b47",
+	"name": "RE_UMBRELLA_Hunk.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1247,7 +1247,7 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 71,
+			"frames": 66,
 			"name": "action_retina"
 		}, 
 		{
@@ -1259,9 +1259,14 @@
 			"fps": 10.000000,
 			"frames": 22,
 			"name": "action_wave"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 1,
+			"name": "Fixed {T.Ba.5} By FreeKill"
 		}
 	],
-	"size": 1171876,
+	"size": 1169180,
 	"skeleton": [
 		{
 			"name": "Bip01",
