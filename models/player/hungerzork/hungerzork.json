@@ -173,7 +173,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "4caddc43af1fda3f3a73a73422073831",
+	"md5": "46ec078c57e7cccb966af30c11934330",
 	"name": "D:\\hunger\\agrunt.mdl",
 	"seq_groups": "2",
 	"sequences": [
@@ -348,7 +348,7 @@
 			"name": "cw_bustout_table"
 		}
 	],
-	"size": 321084,
+	"size": 321080,
 	"skeleton": [
 		{
 			"name": "Bip01",
