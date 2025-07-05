@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "d5ce5681149203bc462d126e7267b8a0",
-	"name": "RE_STARS_Brad.mdl",
+	"md5": "4e39329e6c8784b4c0d4e5c25cd8c911",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1228708,
+	"size": 1228244,
 	"skeleton": [
 		{
 			"name": "Bip01",
