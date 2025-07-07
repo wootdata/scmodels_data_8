@@ -870,11 +870,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cc768693a54b724075c3bf7699c8c828",
-	"metahook_external": false,
+	"metahook_external": true,
 	"metahook_ragdoll": false,
 	"name": "GI_Furina.mdl",
 	"preview": true,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
