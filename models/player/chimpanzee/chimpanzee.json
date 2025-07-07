@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -121,7 +122,11 @@
 	],
 	"id": 1414743113,
 	"md5": "774597bcbcc67f5d43075e49351abd29",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "chimpanzee.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

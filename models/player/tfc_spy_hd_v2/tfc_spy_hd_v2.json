@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b7f10fd2a00797a0aeecd477ddae2ef2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Spy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -12,12 +12,17 @@
 			"name": "LODS"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1453698063,
 	"events": [],
 	"id": 1414743113,
 	"md5": "e9df057e4495bc625461b27023ebd5e0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "truck_research.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

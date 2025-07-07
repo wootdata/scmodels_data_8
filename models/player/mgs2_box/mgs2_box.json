@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1703777106,
 	"events": [
@@ -270,7 +271,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d930fc557e74479b519a6437dff278bd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mgs2_box.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

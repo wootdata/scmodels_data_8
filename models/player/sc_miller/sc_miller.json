@@ -63,6 +63,7 @@
 			"name": "holster"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -341,7 +342,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bc1c31d1f25e29abc1003423dfcd9d13",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hevbarney.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

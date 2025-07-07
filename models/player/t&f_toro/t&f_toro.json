@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fb223e996eba497be018f6970d5103a1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "T&F_Kuro.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

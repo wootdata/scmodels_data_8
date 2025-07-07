@@ -48,6 +48,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "14bfabb634f72693472fe3b9b250bdaa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "P-Body.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

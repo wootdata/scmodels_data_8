@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -310,7 +311,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6715669e75e8a4ac09021af69294d08c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Administrator\\\\blackstickguy\\new\\bd",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

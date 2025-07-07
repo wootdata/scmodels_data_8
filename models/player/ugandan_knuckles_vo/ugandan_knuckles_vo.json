@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -633,7 +634,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3a1b8b5a58191b3c9fe7528b4919ffd3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ugandan_knuckles.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

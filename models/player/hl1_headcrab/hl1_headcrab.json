@@ -12,12 +12,17 @@
 			"name": "headcrab"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1469462811,
 	"events": [],
 	"id": 1414743113,
 	"md5": "d721ed1aec949d33e4dcb02e78783a5d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hl1_headcrab.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

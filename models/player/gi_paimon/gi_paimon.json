@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1638491110,
 	"events": [
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7e9a142f06ca6c093a1da2c94c7b03fa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Paimon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

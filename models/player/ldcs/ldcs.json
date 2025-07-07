@@ -193,6 +193,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -463,7 +464,11 @@
 	],
 	"id": 1414743113,
 	"md5": "db182822945c9879314330e74b7ba42f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "w_lodocus.mdl",
+	"preview": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

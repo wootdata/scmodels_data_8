@@ -43,6 +43,7 @@
 			"name": "body2"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fca4f3e100d97c287fd374f2a4685a76",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SovArmy_am1panam60s.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

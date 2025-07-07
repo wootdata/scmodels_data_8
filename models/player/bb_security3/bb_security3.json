@@ -33,6 +33,7 @@
 			"name": "terror"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e8ed264319c7dbc69284426a9885f711",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bb_security3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

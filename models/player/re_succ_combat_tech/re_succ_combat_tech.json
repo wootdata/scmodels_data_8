@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5304c542c378e09995ff870ec2893b47",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE_UMBRELLA_Hunk.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

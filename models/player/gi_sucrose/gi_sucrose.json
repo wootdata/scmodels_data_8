@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -818,7 +819,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5459a699ae4342b8f3221b017ef0d6de",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Sucrose.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

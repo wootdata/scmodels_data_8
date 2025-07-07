@@ -53,6 +53,7 @@
 			"name": "fumo3"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9374438029137f07aa314b2061033aaa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "plague_doc_fumo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

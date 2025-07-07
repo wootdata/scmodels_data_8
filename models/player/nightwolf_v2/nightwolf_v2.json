@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ba3f9829790f5242fa7762353b77c0a7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nightwolf.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

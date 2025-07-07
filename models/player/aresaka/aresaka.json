@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "59f4c1cb6ceda95c1815a09dc489e8c0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cof_hank6lt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

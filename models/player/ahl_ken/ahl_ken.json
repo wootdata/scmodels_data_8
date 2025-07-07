@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 34,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9c808e41dfea6ec203c8fa055e3be9c3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ahl_ken.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

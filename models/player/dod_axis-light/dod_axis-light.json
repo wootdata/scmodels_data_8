@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -288,7 +289,11 @@
 	],
 	"id": 1414743113,
 	"md5": "555316ff64c23a91af7e55682ea184ef",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "../compiled/dod_axis-light.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

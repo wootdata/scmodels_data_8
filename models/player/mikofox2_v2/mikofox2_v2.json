@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -737,7 +738,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e48e8ff29b43bd7c586da393f0a17e96",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Models\\Mikofox2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

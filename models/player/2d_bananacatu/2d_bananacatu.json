@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1693794058,
 	"events": [
@@ -265,7 +266,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bd7001c01ebfb1ee34a61a031dbcf1d7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "2d_blinicat.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

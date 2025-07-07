@@ -17,6 +17,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -287,7 +288,11 @@
 	],
 	"id": 1414743113,
 	"md5": "621af47a8f7803198af2b3d829824439",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "r_orbb.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

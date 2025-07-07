@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -425,7 +426,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e6cf293ee3b9617d4fd33044121a8a74",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SP_Aqua_hatm.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

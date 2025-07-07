@@ -33,6 +33,7 @@
 			"name": "arm"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -175,7 +176,11 @@
 	],
 	"id": 1414743113,
 	"md5": "46ec078c57e7cccb966af30c11934330",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\hunger\\agrunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "2",
 	"sequences": [
 		{

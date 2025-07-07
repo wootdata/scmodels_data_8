@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1579695883,
 	"events": [
@@ -351,7 +352,11 @@
 	],
 	"id": 1414743113,
 	"md5": "db3f69b6c90783e60e39a7939ea53c41",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "criss.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

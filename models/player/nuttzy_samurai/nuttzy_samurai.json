@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "84b6e9580acabe840f85674e6c2d5427",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nuttzy_Samurai.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

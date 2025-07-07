@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0ba7d1ecedeb4fb59c874c4cd6fc73ba",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\litoa\\OneDrive\\Escritorio\\mass\\massn.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

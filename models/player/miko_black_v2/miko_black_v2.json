@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -284,7 +285,11 @@
 	],
 	"id": 1414743113,
 	"md5": "228762b7033b25528eedc08759156910",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "miko_black.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

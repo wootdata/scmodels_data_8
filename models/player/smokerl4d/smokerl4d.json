@@ -53,6 +53,7 @@
 			"name": "fusion"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2d618626dce5e3280cf6543dce18e1ef",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RED_helmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

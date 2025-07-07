@@ -92,6 +92,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -440,7 +441,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1f6742dea7c320eae1d952ca496d0fdc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_Noire-Vgen.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

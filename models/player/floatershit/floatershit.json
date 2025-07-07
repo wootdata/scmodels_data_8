@@ -12,12 +12,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1497364798,
 	"events": [],
 	"id": 1414743113,
 	"md5": "f9e8f23bd550c9dd1547603cd42b22bc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/floater.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

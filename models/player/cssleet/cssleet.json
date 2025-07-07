@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2f92c6fbf6affb1efd5ea9cdace3e669",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player\\SvenCoop\\cssleet.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

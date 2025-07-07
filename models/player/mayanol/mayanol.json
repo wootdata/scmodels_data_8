@@ -333,6 +333,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -982,7 +983,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d698e0251d8f0b8640dcf04a228260d5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mayanol.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

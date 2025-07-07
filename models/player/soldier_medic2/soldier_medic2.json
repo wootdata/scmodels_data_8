@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 15,
@@ -232,7 +233,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a6267d798e3b5ccdf00801a3a0bac49e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\PCT\\Pulpit\\Nowy folder\\soldier_medicf\\",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

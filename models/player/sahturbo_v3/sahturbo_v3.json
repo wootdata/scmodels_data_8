@@ -128,6 +128,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -406,7 +407,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0a8ae12e0857919ad75de9c8b2532fad",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sahturbo_v3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "96b3a8235cafbb19fdf7e6588e112fcc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_commander2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

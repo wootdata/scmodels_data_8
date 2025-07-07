@@ -253,6 +253,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -533,7 +534,11 @@
 	],
 	"id": 1414743113,
 	"md5": "670902f43b749606f131b63a8ac22bbe",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Furina_alt1.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -58,6 +58,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -328,7 +329,11 @@
 	],
 	"id": 1414743113,
 	"md5": "89988d026fda51590a33a2df8a01deb0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "para_alpha6.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

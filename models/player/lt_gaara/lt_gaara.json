@@ -53,6 +53,7 @@
 			"name": "gourd"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -351,7 +352,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d2c64d74f0c115918b0f273aa6ffd3bf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Gaara.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

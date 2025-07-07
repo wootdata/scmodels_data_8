@@ -112,6 +112,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -461,7 +462,11 @@
 	],
 	"id": 1414743113,
 	"md5": "15eb20a24da6a06310842dc9bd36f58d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Nekopara_Ethanol_v7.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

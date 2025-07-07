@@ -33,6 +33,7 @@
 			"name": "Miles_'Tails'_Prower"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -505,7 +506,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e003593aaa4249c3339d21402e7052a7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "joescoma.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

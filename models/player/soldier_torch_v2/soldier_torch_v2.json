@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -290,7 +291,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3f205331cd6854c6b23f687e8319beb5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_torch.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

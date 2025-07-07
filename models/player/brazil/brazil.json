@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "79f60d8c5356ece9bc67a2a0665debed",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\sierra\\half-life\\gearbox\\models\\player\\DM_CMDR\\DM_CMDR.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

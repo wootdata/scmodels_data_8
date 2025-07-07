@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f65bfb3012f508bd2f2caf82ebd28e1b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\vicia\\Downloads\\Harry_Mason\\AB_Harry_Mason.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

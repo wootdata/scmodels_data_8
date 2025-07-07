@@ -48,6 +48,7 @@
 			"name": "tools"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -318,7 +319,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fe0bc83872577e73433da4732a1b312b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "security2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

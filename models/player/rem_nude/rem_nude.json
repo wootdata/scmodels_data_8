@@ -63,6 +63,7 @@
 			"name": "wing"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c60b45574199794d16aa879f506c7cb7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "rem_nude.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

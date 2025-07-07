@@ -93,6 +93,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "96cb5b05721c9214c1b7f141f03feba7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_Noire.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

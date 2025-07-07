@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -737,7 +738,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4a3fb68027b9fc8a54b6107fbf0bde6c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Models\\Snake_armysuit.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

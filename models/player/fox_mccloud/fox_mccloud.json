@@ -63,6 +63,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -341,7 +342,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0fa77a6280c610baa4f6772e0b0b514c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "fox_mccloud.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "59d014d5458bc63bb2ace0d48a2b39b2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomimimaid_beta.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8ab1f35c871e08f5aa4cce07e0ae5a3e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_udongein_gta.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

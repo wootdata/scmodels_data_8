@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a6adad9e171543ffc3091409c3ba3f9c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Unzipped\\[528]Matrix_pack\\billy3\\billy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

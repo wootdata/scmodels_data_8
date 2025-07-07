@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -640,7 +641,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9b3cfe6611fc6a939b7e4f8272ace44c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Holo_Okayu_LowPoly/Holo_Okayu_LowPoly.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
