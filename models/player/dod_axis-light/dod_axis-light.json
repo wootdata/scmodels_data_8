@@ -291,6 +291,7 @@
 	"md5": "555316ff64c23a91af7e55682ea184ef",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "../compiled/dod_axis-light.mdl",
 	"preview": true,
 	"readme": false,

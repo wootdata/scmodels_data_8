@@ -293,6 +293,7 @@
 	"md5": "3f205331cd6854c6b23f687e8319beb5",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "soldier_torch.mdl",
 	"preview": true,
 	"readme": false,

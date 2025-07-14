@@ -20,6 +20,7 @@
 	"md5": "f9e8f23bd550c9dd1547603cd42b22bc",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "valve/models/floater.mdl",
 	"preview": true,
 	"readme": false,

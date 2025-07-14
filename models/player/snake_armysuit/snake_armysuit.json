@@ -740,6 +740,7 @@
 	"md5": "4a3fb68027b9fc8a54b6107fbf0bde6c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "Models\\Snake_armysuit.mdl",
 	"preview": true,
 	"readme": false,
