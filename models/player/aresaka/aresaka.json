@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1579695362,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "59f4c1cb6ceda95c1815a09dc489e8c0",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "cof_hank6lt.mdl",
 	"preview": true,
 	"readme": false,

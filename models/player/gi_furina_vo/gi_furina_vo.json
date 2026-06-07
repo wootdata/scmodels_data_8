@@ -312,7 +312,7 @@
 			"type": 8
 		}
 	],
-	"date": 1700232401,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 5004,
@@ -872,6 +872,7 @@
 	"md5": "cc768693a54b724075c3bf7699c8c828",
 	"metahook_external": true,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "GI_Furina.mdl",
 	"preview": true,
 	"readme": false,

@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092281,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "60c0593b8994fd7324aa1e6a36ddeecb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "zombie.mdl",
 	"preview": true,
 	"readme": false,

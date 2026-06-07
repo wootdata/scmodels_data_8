@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1339667542,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "e5acc1e3af3f618829a3b351d0b56bbb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\Users\\Administrator\\Desktop\\persona\\hs\\p3_mc.mdl",
 	"preview": true,
 	"readme": false,

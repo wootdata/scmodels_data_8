@@ -118,7 +118,7 @@
 			"type": 8
 		}
 	],
-	"date": 1704226033,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 5004,
@@ -678,6 +678,7 @@
 	"md5": "21db1f05de2abbe5414cfa9c88b07c62",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "ba_izuna_bikini.mdl",
 	"preview": true,
 	"readme": false,

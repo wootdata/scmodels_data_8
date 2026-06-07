@@ -96,7 +96,7 @@
 			"type": 32
 		}
 	],
-	"date": 1450308758,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -208,6 +208,7 @@
 	"md5": "d6ace6cd232f9c6abbd90eeb82fb3e72",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "ElfArcherFa.mdl",
 	"preview": true,
 	"readme": true,

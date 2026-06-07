@@ -52,7 +52,7 @@
 			"type": 32
 		}
 	],
-	"date": 1055778454,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 10,
@@ -178,6 +178,7 @@
 	"md5": "46ec078c57e7cccb966af30c11934330",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "D:\\hunger\\agrunt.mdl",
 	"preview": true,
 	"readme": false,
